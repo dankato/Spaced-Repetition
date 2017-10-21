@@ -52,13 +52,6 @@ _A user should be able to:_
 - Can log out of the session, returns to landing page
 - User can log back in and return to last question worked on
 
-### Views
-- Landing page / login
-- Main Page
-
-### Wireframe
-[google drive](https://goo.gl/VxpmNT))
-
 ### What are we using?
 * React
 * Redux

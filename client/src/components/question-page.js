@@ -169,7 +169,7 @@ export class QuestionPage extends React.Component {
     if (!accessToken) {
       infoModal = (
         <div className="landing">
-          <h3>
+          <h3 className="landing-text">
             Welcome to <span className="bold">Study Hard</span>! This application is using Spaced Repetition to help you better understand Data Structures and Algorithms. Please login to begin
             studying.
           </h3>
